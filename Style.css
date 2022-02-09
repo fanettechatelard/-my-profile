@@ -1,0 +1,44 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+
+body{background-color: hotpink;}
+
+body {
+  color: black;
+}
+h1 {
+  color: darkred;
+}
+
+body {
+  color: rgb(30, 30, 30);
+  text-align: justify;
+  text-decoration: none;
+}
+
+body {
+  font-weight: bolder;
+}
+
+body {
+  
+  font-family: Courier, monospace;
+}
+
+input{
+  margin-top: 9px;
+  }
+.moi{
+  width: 200px;
+  }
+
+.travel_picture {
+   width: 300px;
+}
+<div>{
+text-align: center;
+}
+
+img{
+ text-align: center;
+} 
